@@ -1,5 +1,8 @@
 ## Bonjour à tous 🙂
 
+![](https://tenor.com/bvmyw.gif)
+
+
 ### Ici Pierre-Yves Castelleta, Web dev junior qui a envie d'apprendre.
 
 Bienvenue sur ma page github sur laquelle vous trouverez mes différents projets.
