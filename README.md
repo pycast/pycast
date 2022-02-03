@@ -10,13 +10,13 @@ J'ai eu l'occasion lors de ma formation d'aborder les bases en PHP et Javascript
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 
-* Fonctions, loops
+* Bases en algorithmie
 * DOM HTML
 * ⏳
 
 ![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 
-* Fonctions, loop, AJAX
+* Bases en algorithmie
 * POO
 * Appels API rest
 * Queries MySQL
