@@ -1,10 +1,10 @@
 ## Bonjour à tous 🙂
 
-### Ici Pierre-Yves Castelleta, Web dev junior qui a envie d'apprendre.
+### Ici Pierre-Yves Castelleta, Web dev junior.
 
 Bienvenue sur ma page github sur laquelle vous trouverez mes différents projets.
 
-J'ai eu l'occasion lors de ma formation d'aborder les bases en PHP et Javascript. Je suis pour l'instant un débutant mais je monte en connaissance assez rapidement.
+J'ai eu l'occasion en formation d'aborder les bases en PHP et Javascript. Je suis encore junior mais je monte en connaissance assez rapidement.
 
 ### Connaissances:
 
@@ -17,7 +17,7 @@ J'ai eu l'occasion lors de ma formation d'aborder les bases en PHP et Javascript
 ![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 
 * Bases en algorithmie
-* POO
+* POO -> Symfony
 * Appels API rest
 * Queries MySQL
 * ⏳
