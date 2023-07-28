@@ -9,10 +9,10 @@ Actuellement à la recherche d'une alternance pour continuer ma formation et dé
 ![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 
--> POO  
 -> Appels API  
--> Utilisation de base de données : CRUD  
+-> Utilisation de base de données : CRUD, display de données de manière dynamique 
 -> Utilisation de librairie créatives: GSAP, Tree.  
+-> Utilisation de frameworks : node, express
 
 ### A propos de moi
 
