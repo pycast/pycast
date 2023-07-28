@@ -6,7 +6,8 @@ Actuellement à la recherche d'une alternance pour continuer ma formation et dé
 
 ### Connaissances:
 
-![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)[JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+![php](https://img.shields.io/badge/-php-black?style=flat-square&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 
 -> POO  
 -> Appels API  
